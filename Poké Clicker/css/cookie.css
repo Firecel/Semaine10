@@ -1,0 +1,58 @@
+.background__top  img{
+	position: fixed;
+	height: 1000px;
+	width: 1920px;
+}
+
+/* Bouton principal ---------------------------------------*/
+	.main__bouton {
+		margin-top: 100px;
+	}
+	
+	.main__bouton img{
+		width: 200px;
+		height: 200px;
+	}
+	
+	#bouton{
+		background-color: transparent;
+		width: 200px;
+		height: 200px;
+		border-radius: 200px;
+		padding: 0px;
+		border: 0px;
+		margin-left: 1200px;
+	}
+/* Score --------------------------------------------------*/
+	.score__exp {
+		color: rgb(225,192,17);
+		font-size: 30px;
+		margin-top: 392px;
+	}
+	
+	#affichage {
+		margin-left: 1450px;
+	}
+	
+/* Achats -------------------------------------------------*/
+	.achat {
+		margin-top: 80px;
+	}
+	
+	#multiplicateur {
+		margin-left: 1450px;
+		font-size: 20px;
+		background-color: transparent;
+		border-color: black;
+		border-radius: 5px;
+	}
+	
+	#autoclick {
+		margin-left: 1450px;
+		margin-top: 25px;
+		padding-right: 65px;
+		font-size: 20px;
+		background-color: transparent;
+		border-color: black;
+		border-radius: 5px;
+	}
